@@ -1,0 +1,45 @@
+{
+    "_type": "SpellCheck",
+    "instrumentation": {
+        "pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=1CCCAB8E2F59407A83E1A218330FDBF6&CID=155508C2C3C06DE423DA03E0C2666C46&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=1CCCAB8E2F59407A83E1A218330FDBF6&CID=155508C2C3C06DE423DA03E0C2666C46&Type=Event.CPT&DATA=0"
+    },
+    "flaggedTokens": [
+        {
+            "offset": 0,
+            "token": "Hollo",
+            "type": "UnknownToken",
+            "suggestions": [
+                {
+                    "suggestion": "Hello",
+                    "score": 0.9115257530801,
+                    "pingUrlSuffix": "DevEx,5020.1"
+                },
+                {
+                    "suggestion": "Hollow",
+                    "score": 0.858039839213461,
+                    "pingUrlSuffix": "DevEx,5021.1"
+                },
+                {
+                    "suggestion": "Hallo",
+                    "score": 0.597385084464481,
+                    "pingUrlSuffix": "DevEx,5022.1"
+                }
+            ],
+            "pingUrlSuffix": "DevEx,5019.1"
+        },
+        {
+            "offset": 7,
+            "token": "wrld",
+            "type": "UnknownToken",
+            "suggestions": [
+                {
+                    "suggestion": "world",
+                    "score": 0.9115257530801,
+                    "pingUrlSuffix": "DevEx,5024.1"
+                }
+            ],
+            "pingUrlSuffix": "DevEx,5023.1"
+        }
+    ]
+}
